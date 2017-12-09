@@ -1,0 +1,7 @@
+bck/*
+cmake-build-debug/*
+tmp/*
+working_list/*
+CMakeLists.txt
+.idea/*
+
